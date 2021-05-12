@@ -36,6 +36,7 @@ dependencies {
     compile 'com.lorentzos.swipecards:library:X.X.X@aar'
     implementation "com.github.skydoves:landscapist-glide:1.2.1"
 
+    compile 'com.github.jrvansuita:MaterialAbout:0.2.5'
     
     compile 'org.whispersystems:signal-protocol-android:2.3.0'
 
