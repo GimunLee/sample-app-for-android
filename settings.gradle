@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='fossa-gradle-test'
+rootProject.name='OliveSample'

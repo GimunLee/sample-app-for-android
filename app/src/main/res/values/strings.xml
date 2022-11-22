@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">fossa-gradle-test</string>
+    <string name="app_name">OliveSample</string>
+    <string name="action_settings">Settings</string>
 </resources>

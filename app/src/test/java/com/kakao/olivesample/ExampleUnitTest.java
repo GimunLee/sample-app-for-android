@@ -1,4 +1,4 @@
-package com.example.fossa_gradle_test;
+package com.kakao.olivesample;
 
 import org.junit.Test;
 
